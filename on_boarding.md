@@ -14,6 +14,15 @@ Vamos repassar alguns conceitos aqui:
 
 - Biblioteca — É um conjunto de algoritmos que alguem ecapsulou em um único lugar. De forma que outras pessoas possam reutilizar o código.
 
+## Como utilizar e contribuir com esse repositório
+
+
+### Entendendo Code Review
+
+- [Qual é meu papel durante o code review?](https://medium.com/trainingcenter/qual-e-meu-papel-durante-o-code-review-a9056dee1b23)
+
+---
+
 ## Algumas outras fontes de dados:
 
 - [SIDRA - IBGE](https://sidra.ibge.gov.br/home/pimpfrg/nordeste)
@@ -27,6 +36,3 @@ Vamos repassar alguns conceitos aqui:
 - [Expectativa de Vida - Organização mundial de Saúde](http://apps.who.int/gho/data/view.main.SDG2016LEXREGv?lang=en)
 - [Brasil.io - Auxilio emergencial](https://brasil.io/dataset/govbr/auxilio_emergencial/)
 
-## Entendendo Code Review
-
-- [Qual é meu papel durante o code review?](https://medium.com/trainingcenter/qual-e-meu-papel-durante-o-code-review-a9056dee1b23)
