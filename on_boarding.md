@@ -14,8 +14,14 @@ Vamos repassar alguns conceitos aqui:
 
 - Biblioteca — É um conjunto de algoritmos que alguem ecapsulou em um único lugar. De forma que outras pessoas possam reutilizar o código.
 
-## Como utilizar e contribuir com esse repositório
+---
 
+## Como utilizar e contribuir com esse repositório?
+<em desenvolvimento>
+
+### O que é Git/Github/Gitlab? Onde estou?
+
+- [Aprenda conceitos de git, não comandos por Paulo Gonçalves](https://github.com/PauloGoncalvesBH/treinamento-git)
 
 ### Entendendo Code Review
 
@@ -23,7 +29,7 @@ Vamos repassar alguns conceitos aqui:
 
 ---
 
-## Algumas outras fontes de dados:
+## Onde achar dados?
 
 - [SIDRA - IBGE](https://sidra.ibge.gov.br/home/pimpfrg/nordeste)
 - [Portal Brasileiro de Dados Abertos](http://dados.gov.br/)
